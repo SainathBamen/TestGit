@@ -51,9 +51,3 @@ extension ViewController:UITableViewDelegate,UITableViewDataSource{
     }
     
 }
-enum Test {
-    
-    case Failure
-    case sucess
-    case unauthorized
-}
